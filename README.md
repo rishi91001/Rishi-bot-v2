@@ -1,6 +1,6 @@
-# Priyansh Bot v2
+# Rishi Bot v2
 
-Welcome to **Priyansh Bot v2**! This is a powerful and customizable bot built for automating various tasks on Facebook Messenger.
+Welcome to **Rishi Bot v2**! This is a powerful and customizable bot built for automating various tasks on Facebook Messenger.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ To install the bot, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Priyansh-11/Priyansh-bot-v2.git
+    git clone https://github.com/Rishi-11/Rishi-bot-v2.git
     ```
 
 2. **Navigate to the project directory**:
