@@ -1,8 +1,8 @@
 {
-  "name": "Priyansh",
+  "name": "Rishi",
   "version": "10.1.1",
-  "description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
-  "main": "Priyansh.js",
+  "description": "A simple Facebook Messenger Bot made by 😽:>—ƦııSɦıı—<:😽.",
+  "main": "Rishi.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
@@ -14,24 +14,24 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
+      "url": "https://github.com/Rishi-11/Rishi-bot/issues"
   },
   "keywords": [
       "bot",
       "facebook",
-      "projectpriyansh",
+      "projectrishi",
       "messenger",
       "javasvript",
-      "priyanshu",
-      "prince",
-      "mental"
+      "Rishi",
+      "Babu",
+      "Janu"
   ],
-  "author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  "author": "😽:>—ƦııSɦıı—<:😽",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
+      "url": "https://github.com/Rishi-11/Rishi-bot/issues"
   },
-  "homepage": "https://github.com/Priyansh-11/Priyansh-bot/issues",
+  "homepage": "https://github.com/Rishi-11/Rishi-bot/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
