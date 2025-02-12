@@ -13,16 +13,16 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
+    "EMAIL": "rishikushwahaji240@gmail.com",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Your-Father",
-    "PREFIX": "/",
+    "BOTNAME": "-‎‎ जय श्री ༢།म ⸙..🌺🙏",
+    "PREFIX": "#",
     "ADMINBOT": [
-        "100037743553265"
+        "100034487267106"
     ],
     "NDH": [
-        "100037743553265"
+        "100093492412001"
     ],
     "DATABASE": {
         "sqlite": {
@@ -133,7 +133,7 @@
         "cooldownTime": 1100000
     },
     "sim": {
-        "APIKEY": "Priyansh_1234567890"
+        "APIKEY": "Rishi_1234567890"
     },
     "lamviec": {
         "cooldownTime": 1200000
